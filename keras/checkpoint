@@ -1,0 +1,2 @@
+model_checkpoint_path: "F:\\python\\hackathon\\amex\\keras\\keras_model.ckpt"
+all_model_checkpoint_paths: "F:\\python\\hackathon\\amex\\keras\\keras_model.ckpt"
